@@ -59,7 +59,7 @@ The FNB Sales Performance Dashboard was developed across five different platform
    - Sales trends
    - Promotion and profitability analysis
 
-5. **Lovable Dashboard**
+5. **Lovable Dashboard** link[https://fnb-performance-lens.lovable.app]
    - Interactive dashboard interface
    - KPI presentation
    - Sales and promotion visualisations
